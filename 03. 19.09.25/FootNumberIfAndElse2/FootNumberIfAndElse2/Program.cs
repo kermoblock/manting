@@ -47,7 +47,7 @@
             }
             else
             {
-                Console.WriteLine("Sinu jalanumber on väga suur või väike");
+                Console.WriteLine("Sinu jalanumber on väga loll või väike");
             }
         }
     }
