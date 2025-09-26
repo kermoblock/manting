@@ -34,7 +34,7 @@ namespace IfAndElseNesting
             }
             else
             {
-                Console.WriteLine("Mingi kahtlane number");
+                Console.WriteLine("Mingi lollakas number");
             }
         }
     }
