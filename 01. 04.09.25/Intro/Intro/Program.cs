@@ -16,7 +16,7 @@ namespace Intro
             Console.WriteLine("Hello");
             Console.WriteLine("Hello");
             Console.WriteLine("Hello");
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("He!");
         }
     }
 }
